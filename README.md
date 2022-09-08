@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+[![Linkedin: 9o](https://img.shields.io/badge/-9o-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/9osudo/)](https://www.linkedin.com/in/9osudo/)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
