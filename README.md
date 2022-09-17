@@ -10,5 +10,5 @@
 - I've had some experience and have been learning ```.html```, ```.css```, ```.js```, some frameworks and some sql
 - :smile_cat: I enjoy the sciences/history, films/series, talking to people or building connections, hanging out with friends, and cats of course :octocat: 
 <p align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=solarized-light&layout=compact"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=dark&layout=compact"/>
 </p>
