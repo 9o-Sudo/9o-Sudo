@@ -6,7 +6,7 @@
 - I'm a Computer Science student at Carleton University :books::school:
 - I enjoy the complexities of programming, developement and mathematics :book:
 - :open_file_folder: Currently finding project ideas to work on . . . :page_with_curl:
-- I've worked with ```.py```, ```.c```, ```.java``` 
+- I've worked with ```.py```, ```.c```, ```.java``` , ```.go```
 - I've had some experience and have been learning ```.html```, ```.css```, ```.js```, some frameworks and some sql
 - :smile_cat: I enjoy the sciences/history, films/series, talking to people or building connections, hanging out with friends, and cats of course :octocat: 
 <p align="center">
