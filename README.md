@@ -8,7 +8,7 @@
 - :open_file_folder: Currently finding project ideas to work on . . . :page_with_curl:
 - I've worked with ```.py```, ```.c```, ```.java``` , ```.go```
 - I've had some experience and have been learning ```.html```, ```.css```, ```.js```, some frameworks and some sql
-- :smile_cat: I enjoy the sciences/history, films/series, talking to people or building connections, hanging out with friends, and cats of course :octocat: 
+- :smile_cat: I enjoy the sciences, history, films/series, talking to people or building connections, hanging out with friends, and cats of course :octocat: 
 <p align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9o-Sudo&theme=dark&layout=compact"/>
 </p>
