@@ -2,6 +2,7 @@
 [![Linkedin: 9o](https://img.shields.io/badge/-9o-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/9osudo/)](https://www.linkedin.com/in/9osudo/) ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
  
 <img src=https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif width="150" height="150" />
+<img src=https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif width="150" height="150" />
 
 - I'm a Computer Science student at Carleton University :books::school:
 - I enjoy the complexities of programming, developement and mathematics :book:
