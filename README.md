@@ -1,8 +1,7 @@
 ### Greetings 👋
 [![Linkedin: 9o](https://img.shields.io/badge/-9o-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/9osudo/)](https://www.linkedin.com/in/9osudo/) ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
  
-<img src=https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif width="150" height="150" />
-<img src=https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif width="150" height="150" />
+<img src=https://media.giphy.com/media/LaMsiCZxwc0hy/giphy.gif width="350" height="200" />
 
 - I'm a Computer Science student at Carleton University :books::school:
 - I enjoy the complexities of programming, developement and mathematics :book:
@@ -12,4 +11,8 @@
 - :smile_cat: I enjoy the sciences, history, films/series, talking to people or building connections, hanging out with friends, and cats of course :octocat: 
 <p align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9o-Sudo&theme=dark&layout=compact"/>
+</p>
+
+<p align="center">
+ <img class="img" src=https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif width="150" height="150"/>
 </p>
