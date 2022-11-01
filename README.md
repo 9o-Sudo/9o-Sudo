@@ -1,4 +1,4 @@
-### Greetings 👋
+
 [![Linkedin: 9o](https://img.shields.io/badge/-9o-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/9osudo/)](https://www.linkedin.com/in/9osudo/) ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
  
 <img src=https://media.giphy.com/media/LaMsiCZxwc0hy/giphy.gif width="350" height="200" />
