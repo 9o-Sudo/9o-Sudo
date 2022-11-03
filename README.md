@@ -12,6 +12,3 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9o-Sudo&theme=dark&layout=compact"/>
 </p>
 
-<p align="center">
- <img class="img" src=https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif width="150" height="150"/>
-</p>
